@@ -1,10 +1,10 @@
-//===-----------------------------------------------------------------------===//
-//
-//  Project 1: Big Integer Arithmetic
-//  Authors: Michael Aboff, Mauricio Ferrato, Darsh Patel, Edwin Ortiz,
-//           Eric Wright
-//
-//===----------------------------------------------------------------------===//
+===-----------------------------------------------------------------------===//
+
+  Project 1: Big Integer Arithmetic
+  Authors: Michael Aboff, Mauricio Ferrato, Darsh Patel, Edwin Ortiz,
+           Eric Wright
+
+===----------------------------------------------------------------------===//
 
 This project introduces a BigInt class that lets us read, store, and manipulate
 large numbers that would otherwise be too large for C++ to normally handle.
